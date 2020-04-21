@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Юля\source\repos\Project29\Project29\Source.cpp(14,17): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Юля\source\repos\Project29\Project29\Source.cpp(21,12): warning C4473:  "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\Юля\source\repos\Project29\Project29\Source.cpp(21,12): message :  заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\Юля\source\repos\Project29\Project29\Source.cpp(21,12): message :  отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\Юля\source\repos\Project29\Project29\Source.cpp(21,12): message :  этот аргумент используется в качестве размера буфера
+LINK : fatal error LNK1168: не удается открыть C:\Users\Юля\source\repos\Project29\Debug\Project29.exe для записи

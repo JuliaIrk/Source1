@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Юля\source\repos\Project30\Project30\Source.cpp(3,13): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Юля\source\repos\Project30\Project30\Source.cpp(11,23): warning C4305:  инициализация: усечение из "double" в "float"
+LINK : fatal error LNK1168: не удается открыть C:\Users\Юля\source\repos\Project30\Debug\Project30.exe для записи

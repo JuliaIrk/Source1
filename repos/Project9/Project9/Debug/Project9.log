@@ -1,0 +1,24 @@
+﻿  Source.cpp
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(17,8): error C3861:  PowerA234: идентификатор не найден
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(20,19): error C2296:  *: недопустимо, левый операнд имеет тип "char [1]"
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(20,19): error C2297:  *: недопустимо, правый оператор имеет тип "char [1]"
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(21,16): error C2297:  *: недопустимо, правый оператор имеет тип "char [1]"
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(22,16): error C2297:  *: недопустимо, правый оператор имеет тип "char [1]"
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(28,2): error C2144:  синтаксическая ошибка: перед "int" требуется ";"
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(29,7): error C2059:  синтаксическая ошибка: for
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(29,17): error C2143:  синтаксическая ошибка: отсутствие ")" перед ";"
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(29,21): error C2143:  синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(29,21): error C4430:  отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(29,21): error C2086:  int i: переопределение
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(28): message :   см. объявление "i"
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(29,27): error C2143:  синтаксическая ошибка: отсутствие ";" перед "++"
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(29,27): error C4430:  отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(29,27): error C2086:  int i: переопределение
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(28): message :   см. объявление "i"
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(29,29): error C2059:  синтаксическая ошибка: )
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(29,31): error C2143:  синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(29,31): error C2447:  {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(35,2): error C2059:  синтаксическая ошибка: }
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(35,2): error C2143:  синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(37,1): error C2143:  синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\Юля\source\repos\Project9\Project9\Source.cpp(37,1): error C2059:  синтаксическая ошибка: }
